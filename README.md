@@ -87,10 +87,4 @@ Certifique-se de ter instalado:
 
 Você pode modificar o componente `App` e os estilos em `index.css` para personalizar sua aplicação.
 
-## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
