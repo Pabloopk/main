@@ -30,41 +30,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 - **`React.StrictMode`**: Envolve o componente principal para ativar verificações adicionais no modo de desenvolvimento.
 - **`<App />`**: Componente principal onde a lógica e os demais componentes da aplicação estão organizados.
 
-## Pré-requisitos
-
-Certifique-se de ter instalado:
-- [Node.js](https://nodejs.org/)
-- Gerenciador de pacotes como npm ou Yarn
-
-## Instalação
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
-
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd nome-do-repositorio
-   ```
-
-3. Instale as dependências:
-   ```bash
-   npm install
-   # ou
-   yarn install
-   ```
-
-## Executando o Projeto
-
-1. Inicie o servidor de desenvolvimento:
-   ```bash
-   npm run dev
-   # ou
-   yarn dev
-   ```
-
-2. Abra seu navegador e acesse: [http://localhost:5173](http://localhost:5173)
 
 ## Estrutura do Projeto
 
